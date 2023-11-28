@@ -401,13 +401,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":31,
                  "id":121,
-                 "name":"h1s1",
+                 "name":"h2s3",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula5-fase2\/imagens\/partes\/h2s3.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -470,7 +470,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula5-fase2\/imagens\/pistas\/h2s4.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
