@@ -28,6 +28,6 @@ colocado partes das senhas - x
 colocado pistas - X
 colocado pistas falsas - x
 colocado mapa - x
-colocado video - 
-colocado questões na plataforma - 
-liberado questões - 
+colocado video - x
+colocado questões na plataforma - x
+liberado questões - x
